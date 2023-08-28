@@ -1,4 +1,4 @@
-package config;
+package space.bum.ssh.config;
 
 import org.springframework.context.annotation.Configuration;
 

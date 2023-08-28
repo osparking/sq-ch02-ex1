@@ -1,3 +1,4 @@
+package space.bum.ssh;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

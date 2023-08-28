@@ -1,3 +1,4 @@
+package space.bum.ssh;
 import lombok.Getter;
 import lombok.Setter;
 
